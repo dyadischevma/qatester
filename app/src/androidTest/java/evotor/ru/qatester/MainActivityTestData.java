@@ -13,8 +13,9 @@ import rx.schedulers.Schedulers;
  * Created by User on 25.06.2016.
  */
 
-
+//Не успел разобраться, как подключить Retrofit mocking, поэтому пока
 // Копипаста для получения эталонного текста:
+
 public class MainActivityTestData {
     private String testdata;
      MainActivityTestData() { // Вместе с созданием экземпляра получаем текст
